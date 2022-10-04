@@ -1,0 +1,54 @@
+h1 {background-color: red; color:white; padding: 10px 20px}
+span {text-decoration-line: underline; font-size: 20px;}
+ul {background-color:rgb(60, 60, 60);
+  overflow: hidden;
+}
+li {float: right;
+  text-decoration-line: underline;
+  color:white;
+  padding: 15px;
+}
+div {
+  margin: 15px;
+}
+
+/* span {display: flex;
+  width: 100%;
+  justify-content: right;} */
+
+.smallpic {margin-bottom: 60px;
+  margin-top: 10px;
+}
+
+div.sidepanel {
+  position: absolute;
+  top: 110px;
+  right: 0;
+  height: 1000px;
+  width: 350px;
+}
+
+div.text_block {
+  position: absolute;
+  top: 730px;
+  left: 0;
+  height: 250px;
+  width: 930px;
+}
+
+p {padding: 10px}
+
+h3 {font-weight: bold;
+  padding: 15px;
+  font-size: 30px;
+}
+h4 {font-weight: bold;
+  font-size: 20px;
+}
+
+footer {position: absolute;
+  top: 1025px;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  padding: 20px;
+}
